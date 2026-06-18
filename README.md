@@ -1,13 +1,14 @@
-# python-mini-projects
-beginner python projects created while learning programming fundamentals
 # Python Mini Projects
 
-This repository contains beginner Python projects created while learning programming fundamentals.
+This repository contains beginner Python projects created while learning Python fundamentals.
 
 Projects:
 1. Number Guessing Game
-   - Random number generation
-   - Loops
-   - Functions
-   - Input validation
-   - Round counting
+2. Rock Paper Scissors Game
+
+Concepts used:
+- Functions
+- Loops
+- Conditional Statements
+- User Input
+- Random Module
